@@ -6,7 +6,7 @@ Place for soccer code
 Getting Started
 ===============
 
-0. Youll need
+0. Youll need to install
 	Python
 	Scilab
 	Git
